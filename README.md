@@ -4,15 +4,21 @@ RESTful Node.js/Express backend for a Canvas-inspired learning management platfo
 
 This repository contains the backend API for the Learning Management System client. It handles data persistence, authentication/session logic, course-related API routes, and communication between the React frontend and MongoDB database.
 
-## Live System
+## Live Demo
 
-The backend is deployed on Render and is consumed by the Netlify-hosted React frontend.
-
-Frontend live demo:
+You can open the deployed app here:
 
 [Open the Learning Management System](https://learning-management-system-rayan.netlify.app/)
 
-The live app may take a few moments to load if the Render backend has been inactive and needs to wake up.
+The app may take a few moments to load. If you are not sure how to navigate the platform, use the demo video below for a quick walkthrough.
+
+## Demo Video
+
+If the live deployment is unavailable, you can watch a walkthrough of the project here:
+
+[![Learning Management System Demo](https://img.youtube.com/vi/ea7ssjl5ycw/maxresdefault.jpg)](https://youtu.be/ea7ssjl5ycw?si=FTBWUDT8eywhppyB)
+
+[Watch on YouTube](https://youtu.be/ea7ssjl5ycw?si=FTBWUDT8eywhppyB)
 
 ## Related Repository
 
